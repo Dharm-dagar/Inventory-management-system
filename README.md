@@ -1,4 +1,4 @@
-# 🏗️ Inventory Management System for AEC Businesses
+#  Inventory Management System for AEC Businesses
 
 A complete inventory management solution built with Next.js and Express.js for Architecture, Engineering, and Construction material businesses.
 
