@@ -1,4 +1,4 @@
-# 🏗️ Inventory Management System for AEC Businesses
+#  Inventory Management System for AEC Businesses
 
 A complete inventory management solution built with Next.js and Express.js for Architecture, Engineering, and Construction material businesses.
 
@@ -51,6 +51,8 @@ npm run dev
 ```
 
 Frontend runs on `http://localhost:3000`
+
+Project live link: https://inventory-frontend-f72d.onrender.com
 
 ## 🎯 Problem Solving Approach
 
